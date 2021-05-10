@@ -1,0 +1,3 @@
+Android NDK: WARNING: Unsupported source file extensions in C:\Users\Yasmine\AndroidStudioProjects\memoire\MyApplication\app\build\intermediates\ndk\debug\Android.mk for module app    
+Android NDK:   C:\Users\USER\AndroidStudioProjects\MyApplication\app\src\main\jniLibs\armeabi-v7a\libopencv_java3.so C:\Users\USER\AndroidStudioProjects\MyApplication\app\src\main\jniLibs\x86_64\libopencv_java3.so    
+make: Nothing to be done for 'app'.
